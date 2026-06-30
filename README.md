@@ -1,12 +1,22 @@
-# learning-git
 # Learning Git and GitHub
 
-Hello! 👋
+## About
 
-My name is Muhamed Shahal.
+This repository was created while learning Git and GitHub.
 
-I am a Computer Science Engineering student.
+## Technologies
 
-This is my first GitHub repository.
+- Git
+- GitHub
+- Visual Studio Code
 
-I am learning Git and GitHub step by step.
+## Learning Goals
+
+- Learn Git commands
+- Learn GitHub workflow
+- Upload projects
+- Build a professional GitHub profile
+
+## Author
+
+Muhamed Shahal 
